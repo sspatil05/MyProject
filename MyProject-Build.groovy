@@ -1,3 +1,5 @@
+def jenkins = jenkins.model.Jenkins.instance
+
 branch = "master"
 
 git_url = "https://github.com/sspatil05/MyProject"
