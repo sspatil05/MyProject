@@ -1,3 +1,5 @@
+// MyProject-Build.groovy
+
 def gitUrl = "https://github.com/example/project.git"
 
 job("MyProject-Build") {
