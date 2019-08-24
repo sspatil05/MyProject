@@ -1,6 +1,6 @@
 branch = "master"
 
-git_url = "https://github.deere.com/parts/parts-hcs-infra"
+git_url = "https://github.com/sspatil05/MyProject"
 
  
 
